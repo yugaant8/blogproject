@@ -1,0 +1,8 @@
+---
+title: ' New Post'
+author: ~
+date: '2018-06-14'
+slug: new-post
+categories: []
+tags: []
+---
