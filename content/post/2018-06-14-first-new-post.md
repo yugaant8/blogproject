@@ -2,10 +2,13 @@
 title: "Who am I""
 author: Yugaant Ahuja
 date: 'June 14th 2018'
-slug: first-new-post
+slug: first-new-posts
 categories: []
 tags: []
 ---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
 
 Hey, I am Yugaant! I am a 3rd year student at University of British Columbia specializing in accounting and business technology management.
 
