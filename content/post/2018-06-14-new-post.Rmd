@@ -1,9 +1,9 @@
 ---
-title: "Who am I""
+title: "new post"
 author: Yugaant Ahuja
 date: 'June 14th 2018'
 slug: first-new-posts
-categories: []
+categories: ["R"]
 tags: []
 ---
 ```{r setup, include=FALSE}
